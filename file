@@ -1,0 +1,29 @@
+    TACHE                                                                            TERMIME
+
+                                                                                0 - Apiculture 
+                                                                                1 - AC - Agro Ecologie 
+                                                                                2 - Saisie CEP Annee
+                                                                                3 - CEP -> Commune, Fokontany, Village
+                                                                                4 - Controle saisie {
+                                                                                    Reference (manaraka FORMAT)
+                                                                                    Groupement (atao MAJUSCULE)
+                                                                                    }
+                                                                                5 - Titre indexé pour reperage
+                                                                                6 - Surface unite ha
+                                                                                7 - Saisie membre CEP/MPV/RBM : Liste Fokontany, chef de menage: oui ou non
+                                                                                8 - Responsabilite au niveau du groupement (Liste)
+                                                                                9 - DOTATION : type dotation, designation, unite, quantite
+                                                                                10 - Liste deroulante a reinitialiser a chaque enregistrement
+11 - Saisie membre de famille du beneficiaire
+                                                                                12 - Porcin -> Porciculture , lojy -> Black eyes
+                                                                                13 - MPV caprin -> Ovin
+                                                                                14 - Reboisement 2 types : individuel, communautaire
+                                                                                15 - Protection des ouvrages (liee au perimetre irrigue)
+16 - AUE -> ouvrage perimetre federation
+                                                                                17 - > COGEPEC
+18 - Mise a jour depuis le serveur
+19 - Perimetre irrigue manana AUE maromaro
+20 - Liste AUE + Federation
+21 - Suivi infrastructure et travaux en cours
+                                                                                22 - Bouton pour quitter l'application
+                                                                                23 - Boite de message qui confirme la suppression d'un element
